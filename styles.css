@@ -1,0 +1,66 @@
+/* Body and Fonts */
+
+body {
+    background-color: hsl(30, 38%, 92%);
+
+}
+
+h5 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    color: hsl(212, 21%, 14%);
+    font-weight: bold;
+}
+p {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+}
+
+
+/*Card & Images */
+
+.card-title {
+    font-family: 'Fraunces', 'sans-serif';
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+
+.desktopimage {
+    max-height: 450px;
+}
+
+
+.card-text {
+   
+    font-size: 14px;
+}
+
+.exprice {
+    text-decoration: line-through;
+}
+
+span {
+    font-family: 'Montserrat', sans-serif ;
+}
+
+.price {
+    color: green;
+    font-family: 'Fraunces', 'sans-serif';
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+/* Footer */
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
